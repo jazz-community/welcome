@@ -12,15 +12,17 @@ Include Contributor covenant? (https://www.contributor-covenant.org/)
 
 If you are unfamiliar with git, the internet is filled with with a wealth of excellent resources. Use whatever you need to become comfortable, these are only some suggestions to get you started.
 
+### Tutorial
 Github provides an excellent interactive tutorial to get you ramped up on the basics: [Github interactive tutorial](https://try.github.io/levels/1/challenges/1)
 
-If you want to dive deep and learn the intricacies of git, the [Pro Git](https://git-scm.com/book/en/v2) is a fantastic read. It includes chapters on how to [get started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and covers [the basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), continues with [branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) and even includes a [chapter specifically on GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
+### Pro Git
+If you want to dive deep and learn the intricacies of git, the [Pro Git](https://git-scm.com/book/en/v2) book is a fantastic read. It includes chapters on how to [get started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and covers [the basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), continues with [branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) and even includes a [chapter specifically on GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
 
-creating pull requests:
-https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
+### Pull requests
+Pull requests are the canonical way of contributing to projects on github. If you have never created a pull request, or want to make sure that you are going about contributing the right way, check out this [step-by-step guide](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
 
-git commit messages:
-https://chris.beams.io/posts/git-commit/
+### Commit messages
+Commit messages are a central element of contributing to git projects. They provide a history of your work, and well written commit messages are a central resource of well curated git projects. [This blog post](https://chris.beams.io/posts/git-commit/) summarizes what is generally considered good pratice of formulating great commit messages.
 
 ## Suggesting enhancements
 Our goal is to improve the Jazz plattform together with you, and we need your ideas to keep on improving.
