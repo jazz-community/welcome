@@ -1,18 +1,17 @@
 # Welcome to the Jazz Community!
-
-> write some nice intro to welcome people and explain the goals
-
 Visit our website: [http://jazz-community.org](http://jazz-community.org)
 
+## About
+Founded in May 2017 by [Siemens BT](https://siemens.com), we wanted to share our knowledge and work with other companies and individuals that are interested in extending [IBM Jazz](https://jazz.net/). We believe that an open minded open source community is the best way to address all the needs of users and organizations that may not be covered fast enough as part of the Jazz products. **We want wo encourage _you_ to join the community and help us to make Jazz even better!** 
+
 ## Key Goals
-**Increase Efficiency & Productivity**
+**Increase Efficiency & Productivity**<br>
 From our experience, many companies try to solve challenges that are not (yet) addressed by IBM. They often solve this by implementing extension to address these issues. Usually, they are not the only onces, so other companies facing the same challenges could benefit from the experience and work done by other companies. By sharing your extensions with the community, you can help anyone to make Jazz even better and you can benefit from other peoples work in return. 
 
-**Know How Sharing**
+**Know How Sharing**<br>
 For a long time, [Ralph Schoon's Blog](https://rsjazz.wordpress.com) and his extension workshop was the only public resource to learn Jazz Extension Development. The [Jazz Wiki](https://jazz.net/wiki) wiki holds also many useful information, but some of it is outdated for ages. All these resources focus on _text_, whereas we want to focus on *source code* and _deployable artifacts_ addressing a specific need.
 
 ## Contributing to any of our projects
-
 > List what is required (e.g. GitHub account) and who can do what (anyone can fork, create pull requests and file issues)
 > How to join the organization
 
