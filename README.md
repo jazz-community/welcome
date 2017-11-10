@@ -4,6 +4,13 @@
 
 Visit our website: [http://jazz-community.org](http://jazz-community.org)
 
+## Key Goals
+**Increase Efficiency & Productivity**
+From our experience, many companies try to solve challenges that are not (yet) addressed by IBM. They often solve this by implementing extension to address these issues. Usually, they are not the only onces, so other companies facing the same challenges could benefit from the experience and work done by other companies. By sharing your extensions with the community, you can help anyone to make Jazz even better and you can benefit from other peoples work in return. 
+
+**Know How Sharing**
+For a long time, [Ralph Schoon's Blog](https://rsjazz.wordpress.com) and his extension workshop was the only public resource to learn Jazz Extension Development. The [Jazz Wiki](https://jazz.net/wiki) wiki holds also many useful information, but some of it is outdated for ages. All these resources focus on _text_, whereas we want to focus on *source code* and _deployable artifacts_ addressing a specific need.
+
 ## Contributing to any of our projects
 
 > List what is required (e.g. GitHub account) and who can do what (anyone can fork, create pull requests and file issues)
