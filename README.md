@@ -2,7 +2,7 @@
 Visit our website: [http://jazz-community.org](http://jazz-community.org)
 
 ## About
-Founded in May 2017 by [Siemens BT](https://siemens.com), we wanted to share our knowledge and work with other companies and individuals that are interested in extending [IBM Jazz](https://jazz.net/). We believe that an open minded open source community is the best way to address all the needs of users and organizations that may not be covered fast enough as part of the Jazz products. **We want wo encourage _you_ to join the community and help us to make Jazz even better!** 
+Founded in May 2017 by [Siemens BT](https://siemens.com), we wanted to share our knowledge and work with other companies and individuals that are interested in extending [IBM Jazz](https://jazz.net/). We believe that an open minded open source community is the best way to address all the needs of users and organizations that may not be covered quickly enough as part of the Jazz products. **We want to encourage _you_ to join the community and help us to make Jazz even better!** 
 
 ## Key Goals
 **Increase Efficiency & Productivity**<br>
