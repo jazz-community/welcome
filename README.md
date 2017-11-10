@@ -12,8 +12,10 @@ From our experience, many companies try to solve challenges that are not (yet) a
 For a long time, [Ralph Schoon's Blog](https://rsjazz.wordpress.com) and his extension workshop was the only public resource to learn Jazz Extension Development. The [Jazz Wiki](https://jazz.net/wiki) wiki holds also many useful information, but some of it is outdated for ages. All these resources focus on _text_, whereas we want to focus on *source code* and _deployable artifacts_ addressing a specific need.
 
 ## Contributing to any of our projects
-> List what is required (e.g. GitHub account) and who can do what (anyone can fork, create pull requests and file issues)
-> How to join the organization
+Please refer to our general [Contributing Guide](CONTRIBUTING.md) that will help you to get started and learn how you can contribute to any of our projects. Please note that some repositories may contain additional contributing information, e.g. about unit test coverage or code style guides.
+
+## Events
+We do organize regular events, both on-site and web sessions. Have a look at the [Event Calendar](EVENTS.md) to see whats on next.
 
 ## What is already available
 The number of repositories has grown significantly over the last months. We aim to help you to find interesting repositories by grouping them into different sections.
@@ -55,4 +57,4 @@ In order to get started with your own projects, the below repositories help you 
 ### Organizational 
 Those are the repositories that are used to organize and deliver content specifically related to the _jazz-community_ organization on GitHub:
 - [Jazz Community Website](https://github.com/jazz-community/jazz-community.github.io) - We have a simple website that is available under [http://http://jazz-community.org/](http://http://jazz-community.org/) to act as an entry point for people that are not familiar with GitHub
-- This repository - Contains guidance and information on how we work together in the _jazz-community_ organization
+- [This repository](https://github.com/jazz-community/welcome) - Contains guidance and information on how we work together in the _jazz-community_ organization
