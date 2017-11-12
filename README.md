@@ -58,3 +58,9 @@ In order to get started with your own projects, the below repositories help you 
 Those are the repositories that are used to organize and deliver content specifically related to the _jazz-community_ organization on GitHub:
 - [Jazz Community Website](https://github.com/jazz-community/jazz-community.github.io) - We have a simple website that is available under [http://jazz-community.org/](http://jazz-community.org/) to act as an entry point for people that are not familiar with GitHub
 - [This repository](https://github.com/jazz-community/welcome) - Contains guidance and information on how we work together in the _jazz-community_ organization
+
+## Other useful repositories
+The repositories listed in this section are not part of the _jazz-community_ organization, but might still be useful to know about. 
+### Webpack
+- [Jazz update-site packaging](https://github.com/innerjoin/jazz-update-site-webpack-plugin) - Package IBM Jazz Extension into a valid update-site format 
+- []
