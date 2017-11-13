@@ -71,7 +71,21 @@ We welcome any contributions that improve the quality of our projects. Be it pul
 Information on how to develop on a project and how to create builds are usually included in the projects README. If the supplied information is insufficient for you to get started, do not hesitate to create an issue and ask for help. We want to keep the barrier to entry as low as possible. 
 
 ## Including your project
-To be added.
+Our preliminary goal was to establish the _jazz-community_ organization as the preferred way to get access to published Jazz extensions. There are already a few extensions milling around the web, but most of them are either only _source code_ or just a _compiled artifact_. 
+Therefore, we would appreciate to welcome other projects in the _jazz-community_. There are multiple ways to include your project: 
+
+### Move a repository to _jazz-community_
+If you already have an awesome repository that would suit well into the _jazz-community_ organization, we can take the necessary steps to move your repository into the _jazz-community_ organization together. To ensure a certain amount of quality and consistency across the entire organization, we assume the following to be met:
+- The project is actively maintained and you will continue to actively maintain the repository in the nearer future
+- The `CONTRIBUTING.md` file of your repository must derive from this contribution guide. Hence, your repository should apply these guidelines today or you are willing to follow them from now onward
+- Your project has an appropriate `LICENSE` and `README.md` file
+- You have applied common software engineering practices to ensure readability and maintainability of the source code
+- Continuous Integration is available where possible. The build is automated on [Travis CI](https://travis-ci.org/jazz-community) and the releases are pushed back to the GitHub _Releases_ page if a build contains a new git tag (e.g. v1.2.0).
+
+Please get in touch with one of our [Org Admins](https://github.com/orgs/jazz-community/teams/org-admin/members) to discuss the details.
+
+### Mention a repository
+If you prefer to keep your repository as part of your user profile or within your companies GitHub organization, we can still mention your project as part of our _[Other useful Repositories](https://github.com/jazz-community/welcome#other-useful-repositories)_ list. If you want to be mentioned there, just send us a Pull Request with your additions to the list.
 
 ## Becoming a member
 To be added.
