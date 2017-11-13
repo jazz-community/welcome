@@ -77,7 +77,9 @@ To be added.
 To be added.
 
 ## Getting in touch
-To be added.
+The only way to get in touch with us at the moment is to open an _Issue_ in one of the repositories. This is definitely not ideal, so we are currently evaluating to have a deticated _chat room_ or _forum_ to fill this gap. 
+
+What do you think? What are your preferences? Let us know and follow our discussion on [Issue 2](https://github.com/jazz-community/welcome/issues/2)
 
 ## Improving this document
 This contribution guideline is subject to the conditions that are described here. If you have suggestions for improvement, open an issue or create a pull request!
