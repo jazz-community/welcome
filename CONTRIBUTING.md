@@ -75,9 +75,9 @@ Our preliminary goal was to establish the _jazz-community_ organization as the p
 Therefore, we would appreciate to welcome other projects in the _jazz-community_. There are multiple ways to include your project: 
 
 ### Move a repository to _jazz-community_
-If you already have an awesome repository that would suit well into the _jazz-community_ organization, we can together take the necessary steps to move your repository into the _jazz-community_ organization. To ensure a certain amount of quality and consistency accross the entire organization, we assume the following to be met:
+If you already have an awesome repository that would suit well into the _jazz-community_ organization, we can take the necessary steps to move your repository into the _jazz-community_ organization together. To ensure a certain amount of quality and consistency across the entire organization, we assume the following to be met:
 - The project is actively maintained and you will continue to actively maintain the repository in the nearer future
-- The `CONTRIBUTING.md` file of your repository must derive from this contribution guide. Hence, your repository should apply these guidances today or you are willing to follow them from now onward
+- The `CONTRIBUTING.md` file of your repository must derive from this contribution guide. Hence, your repository should apply these guidelines today or you are willing to follow them from now onward
 - Your project has an appropriate `LICENSE` and `README.md` file
 - You have applied common software engineering practices to ensure readability and maintainability of the source code
 - Continuous Integration is available where possible. The build is automated on [Travis CI](https://travis-ci.org/jazz-community) and the releases are pushed back to the GitHub _Releases_ page if a build contains a new git tag (e.g. v1.2.0).
