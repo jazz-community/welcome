@@ -88,7 +88,12 @@ Please get in touch with one of our [Org Admins](https://github.com/orgs/jazz-co
 If you prefer to keep your repository as part of your user profile or within your companies GitHub organization, we can still mention your project as part of our _[Other useful Repositories](https://github.com/jazz-community/welcome#other-useful-repositories)_ list. If you want to be mentioned there, just send us a Pull Request with your additions to the list.
 
 ## Becoming a member
-To be added.
+All _jazz-community_ projects are public, so you can contribute to any repository through pull requests. Every repository has an owning team associated which will drive the project, merge pull requests and manage releases. If you want to become a _core member_ of a project, open an issue within that repository and express your wish. To ensure the quality of our projects, you may have to fulfill one of the following requirements:
+- You have proven your skills by contributing high quality pull requests within that repository in the past
+- You are endorsed by an existing core member to join
+- You have proven your skills in another open source project and you agree with the project vision of the existing members
+
+If your project is about to be moved to the _jazz-community_ organization, you will remain _core member_ of that repository.
 
 ## Getting in touch
 The only way to get in touch with us at the moment is to open an _Issue_ in one of the repositories. This is definitely not ideal, so we are currently evaluating to have a deticated _chat room_ or _forum_ to fill this gap. 
