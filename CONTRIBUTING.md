@@ -74,7 +74,7 @@ Information on how to develop on a project and how to create builds are usually 
 To be added.
 
 ## Becoming a member
-All _jazz-community_ projects are public, so you can contribute to any repository through pull requests. Avery repository has an owning team associated who will drive the project, merge pull requests and manage releases. If you want to become a _core member_ of one project, open an issue within that repository and express your wish. To ensure the quality of our projects, you may fulfill one of the following requirements:
+All _jazz-community_ projects are public, so you can contribute to any repository through pull requests. Every repository has an owning team associated which will drive the project, merge pull requests and manage releases. If you want to become a _core member_ of a project, open an issue within that repository and express your wish. To ensure the quality of our projects, you may have to fulfill one of the following requirements:
 - You have proven your skills by contributing high quality pull requests within that repository in the past
 - You are endorsed by an existing core member to join
 - You have proven your skills in another open source project and you agree with the project vision of the existing members
