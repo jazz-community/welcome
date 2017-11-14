@@ -38,12 +38,13 @@ Git has become the leading Version Control System over the last years, especiall
 The following extensions aim to fill or shrink the burdens for users that use both RTC and git based VCS tools:
 - [Git Commit Picker](https://github.com/jazz-community/rtc-git-commit-picker) - Link Git Commits with RTC Work Items out of the Work Item Editor
 - [Secure Property Store](https://github.com/jazz-community/rtc-secure-user-property-store) - Used to store Access Tokens (e.g. for GitLab) in RTC 
-- An enhanced, web hook based GitLab integration will follow soon...
+- An enhanced Version of the GIT Commit Picker, allowing "picking" GIT Issues and mertge Requests will follow soon...
 
 #### Dashboard Widgets
 Project and team dashboards help you to have all your necessary information at a glance. RTC and JRS deliver many useful widgets and reports, but for some specific use cases, custom widgets are needed. The following are provided by us:
 - [Timebox Planning](https://github.com/jazz-community/rtc-timeboxplanning) - _Timeboxing_ is a widely used planning technique. The Timebox Planning widget is a feature rich widget which simplifies sprint planning, for both Scrum and SAFe based projects
 - [Absence Widget](https://github.com/jazz-community/rtc-absence-widget) - Display scheduled absences of one or multiple teams in a compact way
+- A SAFe Program Board widget will be released in January 1018 timeframe to support virtual SAFe PI planning.
 
 ### Doors Next Generation
 The [DNG Client Extensions](https://github.com/jazz-community/dng-client-extensions) repository contains a few open social gadgets for DNG, you can find more details in the repository itself.
