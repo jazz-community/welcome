@@ -53,7 +53,7 @@ The [DNG Client Extensions](https://github.com/jazz-community/dng-client-extensi
 In order to get started with your own projects, the below repositories help you to get started more easily and should help you to improve your development workflow:
 - [Jazz Debug Environment](https://github.com/jazz-community/jazz-debug-environment) - Command line based ready-to-go environment for extending and debugging jazz extensions. You can use your favorite Editor or IDE and attach a remote debugger to it.
 - [Jazz Plugin Bootstrapper](https://github.com/jazz-community/jazz-plugin-maven-archetype) - Bootstrap a new jazz service with only a few commands! Uses a shared [Base Service](https://github.com/jazz-community/jazz-plugin-maven-archetype) to encapsulate code for generating services.
-- [P2 Repository Converter](https://github.com/jazz-community/jazz-p2-repository-converter) - Create a _p2_ complaint package of the RTC SDK. This should be soon obsolete once IBM officially provides a p2 package of the SDK.
+- [P2 Repository Converter](https://github.com/jazz-community/jazz-p2-repository-converter) - Create a _p2_ compliant package of the RTC SDK. This should soon be obsolete once IBM officially provides a p2 package of the SDK.
 
 ### Organizational 
 Those are the repositories that are used to organize and deliver content specifically related to the _jazz-community_ organization on GitHub:
