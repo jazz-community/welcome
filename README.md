@@ -2,11 +2,11 @@
 Visit our website: [http://jazz-community.org](http://jazz-community.org)
 
 ## About
-Founded in May 2017 by [Siemens BT](https://siemens.com), we wanted to share our knowledge and work with other companies and individuals that are interested in extending [IBM Jazz](https://jazz.net/). We believe that an open minded open source community is the best way to address all the needs of users and organizations that may not be covered quickly enough as part of the Jazz products. **We want to encourage _you_ to join the community and help us to make Jazz even better!**
+Founded in May 2017 by [Siemens BT](https://siemens.com), we wanted to share our knowledge and work with other companies and individuals that are interested in extending [IBM Jazz](https://jazz.net/). We believe that an open minded open source community is the best way to address all the needs of users and organizations that may not be covered quickly enough by the official Jazz products. **We want to encourage _you_ to join the community and help us to make Jazz even better!**
 
 ## Key Goals
 **Increase Efficiency & Productivity**<br>
-From our experience, many companies try to solve challenges that are not (yet) addressed by IBM. They often solve this by implementing extensions to address these issues. Usually, they are not the only ones, so other companies facing the same challenges could benefit from the experience and work done by other companies. By sharing your extensions with the community, you can help anyone to make Jazz even better and you can benefit from other people's work in return.
+From our experience, many companies try to solve challenges that are not (yet) addressed by IBM. They often solve this by implementing extensions to address these issues. Often multiple companies are facing the same challenges and could benefit from the experience and work done by other companies. By sharing your extensions with the community, you can help anyone to make Jazz even better and you can benefit from other people's work in return.
 
 **Know How Sharing**<br>
 For a long time, [Ralph Schoon's Blog](https://rsjazz.wordpress.com) and his extension workshop was the only public resource to learn Jazz Extension Development. The [Jazz Wiki](https://jazz.net/wiki) also contains a great deal of useful information, but some of it has been outdated for ages. All these resources focus on _text_, whereas we want to focus on *source code* and _deployable artifacts_ addressing specific needs.
@@ -50,7 +50,7 @@ Project and team dashboards help you to see all your necessary information at a 
 The [DNG Client Extensions](https://github.com/jazz-community/dng-client-extensions) repository contains a few open social gadgets for DNG, you can find more details in the repository itself.
 
 ### Development and boiler plates
-In order to get started with your own projects, the below repositories help you to get started more easily and should help you to improve your development workflow:
+The below repositories help you to get started with your own projects and also help to improve your development workflow:
 - [Jazz Debug Environment](https://github.com/jazz-community/jazz-debug-environment) - Command line based ready-to-go environment for extending and debugging jazz extensions. You can use your favorite Editor or IDE and attach a remote debugger to it.
 - [Jazz Plugin Bootstrapper](https://github.com/jazz-community/jazz-plugin-maven-archetype) - Bootstrap a new jazz service with only a few commands! Uses a shared [Base Service](https://github.com/jazz-community/jazz-plugin-maven-archetype) to encapsulate code for generating services.
 - [P2 Repository Converter](https://github.com/jazz-community/jazz-p2-repository-converter) - Create a _p2_ compliant package of the RTC SDK. This should soon be obsolete once IBM officially provides a p2 package of the SDK.
