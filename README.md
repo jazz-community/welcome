@@ -66,4 +66,4 @@ The repositories listed in this section are not part of the _jazz-community_ org
 - [Jazz update-site packaging](https://github.com/innerjoin/jazz-update-site-webpack-plugin) - Package IBM Jazz Extensions into a valid update-site format
 
 ### Deployment
-- [CLM Chef Cookbook](https://github.com/depy-io/clm-chef-cookbook)     
+- [CLM Chef Cookbook](https://github.com/depy-io/clm-chef-cookbook) - Deployment automation for all CLM Jazz applications  
