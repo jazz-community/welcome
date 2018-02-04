@@ -64,3 +64,6 @@ Those are the repositories that are used to organize and deliver content specifi
 The repositories listed in this section are not part of the _jazz-community_ organization, but might still be useful to know about.
 ### Webpack
 - [Jazz update-site packaging](https://github.com/innerjoin/jazz-update-site-webpack-plugin) - Package IBM Jazz Extensions into a valid update-site format
+
+### Deployment
+- [CLM Chef Cookbook](https://github.com/depy-io/clm-chef-cookbook) - Deployment automation for all CLM Jazz applications  
