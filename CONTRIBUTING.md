@@ -96,9 +96,7 @@ All _jazz-community_ projects are public, so you can contribute to any repositor
 If your project is about to be moved to the _jazz-community_ organization, you will remain _core member_ of that repository.
 
 ## Getting in touch
-The only way to get in touch with us at the moment is to open an _Issue_ in one of the repositories. This is definitely not ideal, so we are currently evaluating to have a dedicated _chat room_ or _forum_ to fill this gap.
-
-What do you think? What are your preferences? Let us know and follow our discussion on [Issue 2](https://github.com/jazz-community/welcome/issues/2)
+The only way to get in touch with us at the moment is to open an _Issue_ in one of the repositories. We do not have any chat room like Slack or Gitter for informal exchange as of now, so you can open an _Issue_ if you have a question even if it not necessarily is a potential issue.
 
 ## Improving this document
 This contribution guideline is subject to the conditions that are described here. If you have suggestions for improvement, open an issue or create a pull request!
