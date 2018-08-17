@@ -42,9 +42,9 @@ The following extensions aim to fill the gaps and shrink the burdens for users t
 
 #### Dashboard Widgets
 Project and team dashboards help you to see all your necessary information at a glance. RTC and JRS deliver many useful widgets and reports, but for some specific use cases, custom widgets are needed. The following are provided by us:
-- [Timebox Planning](https://github.com/jazz-community/rtc-timeboxplanning) - _Timeboxing_ is a widely used planning technique. The Timebox Planning widget is a feature rich widget which simplifies sprint planning, for both Scrum and SAFe based projects
-- [Absence Widget](https://github.com/jazz-community/rtc-absence-widget) - Display scheduled absences of one or multiple teams in a compact way
-- A SAFe Program Board widget will be released in January 2018 time frame to support virtual SAFe PI planning.
+- [Timebox Planning](https://github.com/jazz-community/rtc-timeboxplanning) - _Timeboxing_ is a widely used planning technique. The Timebox Planning widget is a feature rich widget which simplifies sprint planning, for both Scrum and SAFe based projects.
+- [Absence Widget](https://github.com/jazz-community/rtc-absence-widget) - Display scheduled absences of one or multiple teams in a compact way.
+- [SAFe Program Board](https://github.com/jazz-community/rtc-safe-programboard) - Do distributed SAFe PI Planning or Scrum-of-Scrums Big Room Planning with a virtual board in RTC.
 
 ### Doors Next Generation
 The [DNG Client Extensions](https://github.com/jazz-community/dng-client-extensions) repository contains a few open social gadgets for DNG, you can find more details in the repository itself.
