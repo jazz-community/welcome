@@ -34,17 +34,17 @@ Work Items are the core of RTC. Hence, there are also endless possibilities to i
 - [Create Child Work Item](https://github.com/jazz-community/rtc-create-child-item-plugin) - Create a child Work Item out of the Work Item Editor with a single click!
 
 #### Git Integration
-Git has become the leading Version Control System over the last years, especially when it comes to open source software. One of its key success factors are great tools like GitHub that are based on Git. Companies that are operating RTC are more and more faced with the challenge to couple git based VCS like GitLab or GitHub with the Jazz Platform.
-The following extensions aim to fill or shrink the burdens for users that use both RTC and git based VCS tools:
-- [Git Commit Picker](https://github.com/jazz-community/rtc-git-commit-picker) - Link Git Commits with RTC Work Items out of the Work Item Editor
-- [Secure Property Store](https://github.com/jazz-community/rtc-secure-user-property-store) - Used to store Access Tokens (e.g. for GitLab) in RTC
-- An enhanced Version of the GIT Commit Picker, allowing "picking" GIT Issues and merge Requests will follow soon...
+Git has become the leading Version Control System over the last years, especially when it comes to open source software. Some of its key success factors are great tools like GitHub that are based on Git. Companies that are operating RTC are more and more faced with the challenge to couple git based VCS like GitLab or GitHub with the Jazz Platform.
+The following extensions aim to fill the gaps and shrink the burdens for users that use both RTC and git based VCS tools:
+- [RTC Git Connector](https://github.com/jazz-community/rtc-git-connector) - Link Git Issues, Merge/Pull Request, and Commits with RTC Work Items directly out of the Work Item Editor. Also, create issues in Git using the data from the Work Item. More features are on the way.
+- [RTC Git Connector Service](https://github.com/jazz-community/rtc-git-connector-service) - Provides server-side functionality for the RTC Git Connector including custom link types and rich hover.
+- [Secure Property Store](https://github.com/jazz-community/rtc-secure-user-property-store) - Used to store Access Tokens (e.g. for GitLab) in RTC.
 
 #### Dashboard Widgets
 Project and team dashboards help you to see all your necessary information at a glance. RTC and JRS deliver many useful widgets and reports, but for some specific use cases, custom widgets are needed. The following are provided by us:
-- [Timebox Planning](https://github.com/jazz-community/rtc-timeboxplanning) - _Timeboxing_ is a widely used planning technique. The Timebox Planning widget is a feature rich widget which simplifies sprint planning, for both Scrum and SAFe based projects
-- [Absence Widget](https://github.com/jazz-community/rtc-absence-widget) - Display scheduled absences of one or multiple teams in a compact way
-- A SAFe Program Board widget will be released in January 2018 time frame to support virtual SAFe PI planning.
+- [Timebox Planning](https://github.com/jazz-community/rtc-timeboxplanning) - _Timeboxing_ is a widely used planning technique. The Timebox Planning widget is a feature rich widget which simplifies sprint planning, for both Scrum and SAFe based projects.
+- [Absence Widget](https://github.com/jazz-community/rtc-absence-widget) - Display scheduled absences of one or multiple teams in a compact way.
+- [SAFe Program Board](https://github.com/jazz-community/rtc-safe-programboard) - Do distributed SAFe PI Planning or Scrum-of-Scrums Big Room Planning with a virtual board in RTC.
 
 ### Doors Next Generation
 The [DNG Client Extensions](https://github.com/jazz-community/dng-client-extensions) repository contains a few open social gadgets for DNG, you can find more details in the repository itself.
