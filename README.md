@@ -34,11 +34,11 @@ Work Items are the core of RTC. Hence, there are also endless possibilities to i
 - [Create Child Work Item](https://github.com/jazz-community/rtc-create-child-item-plugin) - Create a child Work Item out of the Work Item Editor with a single click!
 
 #### Git Integration
-Git has become the leading Version Control System over the last years, especially when it comes to open source software. One of its key success factors are great tools like GitHub that are based on Git. Companies that are operating RTC are more and more faced with the challenge to couple git based VCS like GitLab or GitHub with the Jazz Platform.
-The following extensions aim to fill or shrink the burdens for users that use both RTC and git based VCS tools:
-- [Git Commit Picker](https://github.com/jazz-community/rtc-git-commit-picker) - Link Git Commits with RTC Work Items out of the Work Item Editor
-- [Secure Property Store](https://github.com/jazz-community/rtc-secure-user-property-store) - Used to store Access Tokens (e.g. for GitLab) in RTC
-- An enhanced Version of the GIT Commit Picker, allowing "picking" GIT Issues and merge Requests will follow soon...
+Git has become the leading Version Control System over the last years, especially when it comes to open source software. Some of its key success factors are great tools like GitHub that are based on Git. Companies that are operating RTC are more and more faced with the challenge to couple git based VCS like GitLab or GitHub with the Jazz Platform.
+The following extensions aim to fill the gaps and shrink the burdens for users that use both RTC and git based VCS tools:
+- [RTC Git Connector](https://github.com/jazz-community/rtc-git-connector) - Link Git Issues, Merge/Pull Request, and Commits with RTC Work Items directly out of the Work Item Editor. Also, create issues in Git using the data from the Work Item. More features are on the way.
+- [RTC Git Connector Service](https://github.com/jazz-community/rtc-git-connector-service) - Provides server-side functionality for the RTC Git Connector including custom link types and rich hover.
+- [Secure Property Store](https://github.com/jazz-community/rtc-secure-user-property-store) - Used to store Access Tokens (e.g. for GitLab) in RTC.
 
 #### Dashboard Widgets
 Project and team dashboards help you to see all your necessary information at a glance. RTC and JRS deliver many useful widgets and reports, but for some specific use cases, custom widgets are needed. The following are provided by us:
