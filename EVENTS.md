@@ -8,7 +8,7 @@ Below you will find a list of upcoming events. If you want to register a new eve
 ## Past Events
 | Date      | Time          | Details                                                                                                                                                              | Organizer                          | Location                                                                                               |
 |-----------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Nov. 9th, 2018  | full day      | **1st Jazz Community Hackaton**<br>SIEMENS will organize a hackaton to get started with Jazz Extension Development. More information to follow....                | DACH Jazz User Group      | Metrohm AG, Herisau, Switzerland |
+| Nov. 9th, 2018  | full day      | **1st Jazz Community Hackathon**<br>SIEMENS will organize a hackathon to get started with Jazz Extension Development. More information to follow....                | DACH Jazz User Group      | Metrohm AG, Herisau, Switzerland |
 | Nov. 8th, 2018  | full day      | **DACH Jazz User Group Meeting**<br>Schedule t.b.a.  | DACH Jazz User Group      | Metrohm AG, Herisau, Switzerland |
 | Nov. 7th, 2018  | around 6:30 p.m., exact time t.b.a     | **DACH Jazz User Group Community Dinner**<br>Close to Methrom AG, Herisau, Switzerland. Exact location t.b.a | DACH Jazz User Group      | Metrohm AG, Herisau, Switzerland |
 | Oct. 15-17, 2018  | -      | **Agile Engineering Summit 2018**<br>[More information](http://conference.learnquest.com/agile-engineering-summit-18/) | IBM | Omni Shoreham Hotel, Washington, D.C. |
@@ -20,4 +20,4 @@ Below you will find a list of upcoming events. If you want to register a new eve
 
 ## How it started
 The initial idea of such a community started when the _DACH* Jazz User Group_ was founded and started to grow. We started to meet twice a year to exchange information and know how, whereas every time a different company hosted the event.<br>
-> DACH = Apronym for **D**eutschland (Germany), **A**ustria and **C**onfoederatio **H**elvetica (latin: Switzerland)
+> DACH = Acronym for **D**eutschland (Germany), **A**ustria and **C**onfoederatio **H**elvetica (latin: Switzerland)
